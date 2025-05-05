@@ -1,0 +1,43 @@
+# WordPress specific
+wp-config.php
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/cache/
+sitemap.xml
+sitemap.xml.gz
+*.log
+wp-content/debug.log
+wp-content/plugins/hello.php # Example if you have other plugins in a dev env
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE / Editor specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories (if you were to use Composer or npm later)
+/vendor/
+/node_modules/
+
+# Build directories (if you add build processes)
+/build/
+/dist/
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
