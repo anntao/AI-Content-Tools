@@ -40,7 +40,7 @@ Both features leverage the Google Gemini API. Generated content can be easily di
 
 == Installation ==
 
-1.  Download the zip file from "Releases" OR upload the `ai-post-summarizer` (or your plugin's folder name) to the `/wp-content/plugins/` directory 
+1.  Download the zip file from "Releases" and upload to WP
 2.  Activate the plugin through the 'Plugins' menu in WordPress.
 3.  Go to **Settings > AI Content Tools** in your WordPress admin area.
 4.  Enter your Google Gemini API Key.
